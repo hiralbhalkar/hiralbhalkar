@@ -57,14 +57,14 @@
 
 ## **🏆 Achievements**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hiralbhalkar&theme=discord&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
 ## **🐍 My Contribution Snake**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/hiralbhalkar/output/snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
