@@ -1,56 +1,55 @@
-<!-- Header Wave Banner -->
+<!-- PROFILE README START -->
+
+<h1 align="center">
+  Hey there 👋, I'm <b>Hiral Bhalkar</b>!
+</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=200&section=header&text=Hi%20👋%2C%20I'm%20Hiral%20Bhalkar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=A64AC9&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Full-Stack+%26+Data+Science+Enthusiast;CAT+2025+Aspirant;Lifelong+Learner" alt="Typing Animation" />
 </p>
 
-<!-- Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Java+Developer+%7C+Data+Science+Explorer;Full-Stack+Builder+%7C+UI+Enthusiast;Dreamer+%7C+Problem+Solver+%7C+Innovator" alt="Typing SVG">
-</p>
-
----
-
-## **💫 About Me**
-✨ Passionate about creating tech that’s **functional** and **beautiful**.  
-🎓 Currently in 3rd year **Computer Engineering** in India.  
-☕ Skilled in **Java**, exploring **Python** and **Data Science**.  
-🎨 UI/UX fan — purple & lavender aesthetic.  
-📬 Email me at **yourmail@example.com**.  
-⚡ Fun fact: *I design my code like I design my room — neat, minimal, and with good lighting.*
-
----
-
-## **🛠️ My Tech Arsenal**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mysql,postgres,sqlite,docker,git,github,postman,vscode&perline=8"/>
+  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=purple" />
+  <img src="https://komarev.com/ghpvc/?username=hiralbhalkar&style=for-the-badge&color=purple" />
 </p>
 
 ---
 
-## **🚀 Projects**
-<details open>
-  <summary><b>🔹 ISP CRM</b></summary>
-  Multi-role platform (Admin, User, Serviceman) with ticketing, inventory, and service management.  
-  *Tech*: Java (Servlet/JSP), MySQL, HTML/CSS, JS
-</details>
-
-<details>
-  <summary><b>🔹 Nutrition Nation</b></summary>
-  Gamified platform linking diet and mental well-being with a clean, mobile-first UI.  
-  *Tech*: HTML, CSS, JS, Data Visualization
-</details>
-
-<details>
-  <summary><b>🔹 Review Spam Classifier</b></summary>
-  Machine learning classifier for detecting fake reviews.  
-  *Tech*: Python, Scikit-learn, Pandas, NLP
-</details>
+## **🚀 About Me**
+- 🎓 3rd-year Computer Engineering student (Tier 3 college)
+- 💻 Passionate about **Full-Stack Development**, **Data Analytics**, and **UI/UX Design**
+- 🎯 Goal: Work in **top tech companies** & pursue **Masters in Data Science**
+- 🏆 Certifications: Google Data Analytics, Japanese (NAT N5)
+- 🌈 Loves clean UI with **purple & lavender themes**
 
 ---
 
-## **📊 Activity Overview**
+## **💻 Projects**
+- [**Citizen & Constitution**](#) – Gamified platform to simplify the Constitution of India for citizens.
+- [**CRM for ISP**](#) – Full-stack CRM with role-based access for admin, serviceman, and user panels.
+- [**Inventory Management Tool**](#) – Manage raw and processed materials with quantity tracking & issue logs.
+- [**Review Spam Classifier**](#) – ML model to detect spam reviews in e-commerce product feedback.
+
+---
+
+## **🛠 Languages & Tools**
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,mysql,git,docker" />
+</p>
+
+---
+
+## **📊 GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hiralbhalkar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiralbhalkar&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## **🌐 Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiralbhalkar&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -62,32 +61,27 @@
 
 ---
 
+## **📌 Extra Curricular**
+- 📚 **Certifications** – Google Data Analytics, Japanese (NAT N5)
+- 🎯 **CAT 2025 Aspirant**
+- 🎨 UI/UX Design enthusiast (special love for purple/lavender)
+- 🌍 Volunteer – Digital literacy & awareness campaigns
+- 📖 Constant learner, exploring **Docker**, **Data Science**, and **AI**
+
+---
+
 ## **🐍 My Contribution Snake**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/hiralbhalkar/output/snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/hiralbhalkar/hiralbhalkar/output/snake.svg" alt="Snake Animation"/>
 </p>
 
 ---
 
-## **🎵 Now Playing**
+## **📬 Connect with Me**
 <p align="center">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem" alt="Spotify Now Playing"/>
-  </a>
+  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/hiralbhalkar"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
-
-## **🌐 Let’s Connect**
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/YOUR_TWITTER_ID"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
----
-
-<!-- Footer Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9b59b6&height=100&section=footer"/>
-</p>
+<!-- PROFILE README END -->
